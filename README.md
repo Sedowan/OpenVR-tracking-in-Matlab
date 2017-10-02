@@ -1,5 +1,6 @@
 # OpenVR-tracking-in-Matlab
-Use the OpenVR API to get live tracking data into Matlab. Relaese as soon as my Masterthesis is complete. Please contact me if you need help in the mean while.
+Use the OpenVR API to get live tracking data into Matlab.
+(Relaese as soon as my Masterthesis is complete). Please contact me if you need help in the mean while.
 
 This Project will get live tracking data from the HMD via OpenVR onto the command window of Matlab. It will send the last reseived psition as variable into the Workspace of Matlab.
 
