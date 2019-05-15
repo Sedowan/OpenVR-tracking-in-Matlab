@@ -7,3 +7,7 @@ This Project will get live tracking data from the HMD via OpenVR onto the comman
 This project is featured by Peter Thor's OpenVR-Example C code also found on Github.
 
 The aim of this project is to have a Simulink block which uses the OpenVR API to use any supported HMD in the Simulink workspace.
+
+
+
+---- Developement currently until further on hold due to changes in job and occupation ----
